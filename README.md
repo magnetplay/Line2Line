@@ -32,7 +32,7 @@ MagnetPlay尊重并保护所有使用服务的用户的个人隐私权。为了�
 	- 在您未拒绝接受cookies的情况下,MagnetPlay会在您的计算机上设定或取用cookies
 ，以便您能登录或使用依赖于cookies的MagnetPlay平台服务或功能。MagnetPlay使用cookies可为您提供更加周到的个性化服务，包括推广服务。
 	- 您有权选择接受或拒绝接受cookies。您可以通过修改浏览器设置的方式拒绝接受cookies。但如果您选择拒绝接受cookies，则您可能无法登录或使用依赖于cookies的MagnetPlay网络服务或功能。
-	- 通过Edaysoft所设cookies所取得的有关信息，将适用本政策。 
+	- 通过MagnetPlay所设cookies所取得的有关信息，将适用本政策。 
 
 6. 信息安全 
 	- MagnetPlay帐号均有安全保护功能，请妥善保管您的用户名及密码信息。MagnetPlay将通过对用户密码进行加密等安全措施确保您的信息不丢失，不被滥用和变造。尽管有前述安全措施，但同时也请您注意在信息网络上不存在“完善的安全措施”。
